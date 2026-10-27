@@ -1,0 +1,6 @@
+{
+  "name": "Cheela Mae Felix Portfolio",
+  "description": "Professional portfolio of Cheela Mae Felix, customer service specialist, outlet cashier, and retail service crew.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
